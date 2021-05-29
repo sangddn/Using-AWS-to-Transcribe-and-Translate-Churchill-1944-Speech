@@ -1,0 +1,14 @@
+{
+    "NextToken": "3/eW78gk/v3mgnbTFictsVHbmzATnyWJruCrmdprPH8x/gsuUSTIkGyanvRE6WMXFdZCjX5wnTe6llR7cBz7FopgTHeBKe8N/gYH4FOTXygxK8pPma4J/YCUcibec+EDayAmvwfIjzNiEVD+Wi98RFk6McfcT0vLkr9TKhihTDp48Ryf489aqdwKlJ0rnRWZllksRS81jO8xhn0ZiJkUnLParM11mq5DG8PQCJXPB7A0vSww2SlcgC2DZ2nQB5IOyoX36Wuu4AC9TNlhKO1l4JYwxduQ2EJotptr1lXhuGJJ3LhQDtt7AcDVrULbpDT7qtMs6A+66Q1VhgmIJD9sX8L25wjPgwz2pJ/u44fuis/He7EJRsuuKxBdYx6xMJyL0PD9HKYbFnepd4GISNCHm/47Yl+xDC7tlEWH+yrtrnRQbhLXPLL4vPUIOkR1ZdC3kIQVswdphFQaOt83RSFW20NTSIlaDN4a/Oin1kYLX3zy6yCauWm2+gLdr5ZDMpryxILkWGV6/RRyVaBlND0IZbUsQDYti3bu8eFRoGOQWAu6AP2/PRTzWYMI/j7e7jWBUcUQAyLZ0DfW50k6i/qprpZlFoPJ1KTd6dj5AGTc277sHwXIB7sRXBebm0TMkVavIt1I46GVVj0DKgkomPFk4lMEVS9J00J2pnaZWNOOfxe7Nb61EI8l0KiwNWITIuD9jF0t2KLfgrwO8zDIJQ+cs2mPL0hTutIbUAzGcrkkiWcYhMK0egPlaM9fKdUxKh+z+QF9rnRsV3c9Gr1mHtcyQKPLQ8fmGgeLvyRS3Bl1tm0LD7hfdOZsNAnOZMmKQ9TZpCdXuT7diogVpo71jfyJNI4pk/zCT9bDwoUNNz4GxRUVKMVVKiz0rBL/ZA2yCUOlLlhdENWos51mZbncarJALUwonhZftuLDvyrPn4DNcsbkE=",
+    "TranscriptionJobSummaries": [
+        {
+            "TranscriptionJobName": "math1100.736795881995931",
+            "CreationTime": "2020-11-21T20:09:08.020000+07:00",
+            "StartTime": "2020-11-21T20:09:08.046000+07:00",
+            "CompletionTime": "2020-11-21T20:10:17.225000+07:00",
+            "LanguageCode": "en-US",
+            "TranscriptionJobStatus": "COMPLETED",
+            "OutputLocationType": "CUSTOMER_BUCKET"
+        }
+    ]
+}
